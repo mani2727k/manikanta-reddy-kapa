@@ -11,7 +11,7 @@
 
 - 📚 Currently focusing on **Backend Development and Problem Solving**
 
-- 📫 Reach me at: **yourmail@gmail.com**
+- 📫 Reach me at: **mani2727k@gmail.com**
 
 ---
 
