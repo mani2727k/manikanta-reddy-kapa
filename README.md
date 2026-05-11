@@ -1,4 +1,4 @@
-# manikanta-reddy-kapa<h1 align="center">Hi 👋, I'm Manikanta Reddy Kapa</h1>
+<h1 align="center">Hi 👋, I'm Manikanta Reddy Kapa</h1>
 <h3 align="center">Aspiring Java Full Stack Developer from India</h3>
 
 ---
