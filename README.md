@@ -44,5 +44,4 @@
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&" alt="streak stats" />
-</p>
+
